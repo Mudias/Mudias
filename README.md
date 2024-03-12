@@ -1,6 +1,6 @@
 <h1>Hi, I'm Muhammed! <br/><a href="https://www.linkedin.com/in/muhammed-basdemir-279b6b167/">Game Developer</a></h1>
 
-<h2>👨‍💻 Game Development Projects:</h2>
+<h2>👨‍💻 Game Development Portfolio:</h2>
 
 [Virtual desktop AI pet](https://github.com/Mudias/VirtualDesktopAIPet)
 
