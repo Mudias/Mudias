@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Game Development Projects:</h2>
 
-[Virtual desktop pet](https://github.com/Mudias/VPET)
+[Virtual desktop AI pet](https://github.com/Mudias/VirtualDesktopAIPet)
 
 <h2> 🤳 Connect with me:</h2>
 
