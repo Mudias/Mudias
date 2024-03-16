@@ -3,6 +3,8 @@
 <h2>👨‍💻 Game Development Portfolio:</h2>
 
 [Virtual desktop AI pet](https://github.com/Mudias/VirtualDesktopAIPet)
+<br />
+[AI School](https://github.com/Mudias/AI-School)
 
 <h2> 🤳 Connect with me:</h2>
 
