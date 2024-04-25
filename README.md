@@ -10,5 +10,5 @@
 
 [<img align="left" alt="Mudias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/muhammed-basdemir-279b6b167/
+[linkedin]: https://www.linkedin.com/in/muhammed-basdemir/
 
