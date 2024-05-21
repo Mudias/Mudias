@@ -4,6 +4,8 @@
 
 [Virtual desktop AI pet](https://github.com/Mudias/VirtualDesktopAIPet)
 <br />
+[Soulslike Project](https://github.com/Mudias/SoulslikeProject)
+<br />
 [AI School](https://github.com/Mudias/AI-School)
 
 <h2> 🤳 Connect with me:</h2>
